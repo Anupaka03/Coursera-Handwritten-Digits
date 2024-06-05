@@ -1,5 +1,5 @@
 # GAN for Handwritten Digit Generation
- Handwritten digits guided project offered by Coursera
+ Deep Learning with PyTorch - Handwritten digits using GAN guided project offered by Coursera.
  This project implements a Generative Adversarial Network (GAN) to generate handwritten digits resembling those from the MNIST dataset. The model uses a Discriminator and Generator network, trained with the BCEWithLogits loss function and the Adam optimizer.
 
  ## Introduction
